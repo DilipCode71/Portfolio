@@ -40,7 +40,7 @@ const Contact = () => {
     {
       icon: <Mail className="w-6 h-6" />,
       title: "Email",
-      value: "dilip.sharma.sde@gmail.com",
+      value: "vyasd9884@gmail.com || dilip.sharma.sde@gmail.com",
       link: "#",
       color: "from-red-500 to-pink-500"
     },
